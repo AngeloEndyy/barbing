@@ -1,3 +1,3 @@
 # Barbing Website
 
-(Website)[https://angeloendyy.github.io/barbing/]
+[Website](https://angeloendyy.github.io/barbing/)
